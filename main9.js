@@ -8,5 +8,8 @@ git add -A dobavlyaet faili dlya nablyudenie esli nujno dobavit tolko css ili js
 
 esli nujno commit  nujno
 git commit -a -m"txtjf jkf"   / a - eto all  m - eto message
+
+git clone *https* -name-
+git pull / obnolyaet vse novie izmenenie
 */
 

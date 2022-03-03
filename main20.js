@@ -14,6 +14,10 @@ const zoo = {
 }
 zoo.makeTest();
 
+const {pet, food} = zoo.animal;  // destruktizasiya objecta videlit otdelniy svoystvo ot obejecta
+
+console.log(pet);     // vot tak vot nujno brat svoystvo iz objecta
+
 console.log(Object.keys(zoo));  //  Vse svoystvo object 
 console.log(Object.keys(zoo).length); // kolichestvo svoystv objecta
 

@@ -55,9 +55,9 @@
 //     console.log(i);
 // }
 
-const numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели?', '');
+const numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели?', ''); // oprosnik
 
-const personalMovieDB = {
+const personalMovieDB = {     //  peremenaya dlya zbra info
     count: numberOfFilms,
     movies: {},
     actors: {},
